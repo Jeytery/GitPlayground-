@@ -13,3 +13,7 @@ print("hello second branch")
 a = 120
 b = 32
 
+let d = 12
+let z = 11
+let r = 10
+let q = 123
