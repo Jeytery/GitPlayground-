@@ -20,4 +20,6 @@ let q = 123
 
 //
 
-// 
+//
+
+// xcuserstatus must be ignored
