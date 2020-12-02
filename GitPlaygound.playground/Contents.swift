@@ -1,4 +1,6 @@
-import Cocoa
+let a = 10
+let b = 20
 
-var str = "Hello, playground"
-    
+let c = a + b
+
+print(c)
